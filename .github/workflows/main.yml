@@ -19,5 +19,5 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Run hello.py
+    - name: Run python.py
       run: python.py
